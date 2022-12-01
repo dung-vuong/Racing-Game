@@ -5,12 +5,11 @@
 
 ![Screenshot_478](https://user-images.githubusercontent.com/79184498/204987033-2a7a9417-7b1f-4195-9001-6902762acff8.png)
 
-
 ## ⬇️ What I have done ⬇️
 ### The following features included:
-- Created responsive Game Memories App using React, Redux, MUI Library
-- Connect with MongoDB and use Node.js for backend
-- Login with Email (JWT) and Google OAuth Authentication
+- Work with an artist partner to import Sprites and Animation
+- Use Unity to connect and program the objectives
+- Align objectives and backgrounds based on the given arts
 
 ## ⬇️ Demo Run ⬇️ 
-https://user-images.githubusercontent.com/79184498/180090634-173a2550-43ef-472b-a7b4-8ea9ef8c0ed5.mp4
+
