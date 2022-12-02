@@ -12,4 +12,3 @@
 - Align objectives and backgrounds based on the given arts
 
 ## ⬇️ Demo Run ⬇️ 
-
